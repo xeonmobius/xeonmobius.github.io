@@ -1,4 +1,4 @@
-# Data Science Protfolio by Shannon Chowdhury 
+# Data Science Portfolio by Shannon Chowdhury 
 
 This page will display all the data science projects I have created. I will try to provide a brief overview of each project. Projects are separated as Kaggle and Non Kaggle projects
 
