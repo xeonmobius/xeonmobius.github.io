@@ -1,6 +1,10 @@
 # Data Science Portfolio by Shannon Chowdhury 
 
-This page will display all the data science projects I have created. I will try to provide a brief overview of each project. 
+This page will display all the data science projects I have created. I will provide a brief overview of each project. 
+
+## Deployed Personal Projects
+### Coronavirus Tracker for Canada[1](https://covidtrackr.herokuapp.com)
+Used the data collected by Berry I, et al. to create a website that displays the total infection, total death and total recovery rates. The data is presented with Chart.JS, unwrangled with pandas, and the backend is built on Flask. All deployed on Heroku. 
 
 ## Kaggle Projects
 ### KANNADA MNIST CNN 
